@@ -1,12 +1,12 @@
 # Tayyab Attiq - Portfolio Website
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://your-portfolio-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://tayyab-attiq-portfolio.vercel.app/)
 
 A modern, responsive portfolio website showcasing my work as a Software Engineer, Full-Stack Developer, and AI Developer.
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app)
+Visit the live website: [https://tayyab-attiq-portfolio.vercel.app/](https://tayyab-attiq-portfolio.vercel.app/)
 
 ## Features
 
